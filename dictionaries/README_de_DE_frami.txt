@@ -1,4 +1,4 @@
-Bei dem Wörterbuch xxx_frami handelt es sich um ein Addon. Es enthält
+Bei dem Wörterbuch xxx_frami (de-DE.*) handelt es sich um ein Addon. Es enthält
 alle Wörter des Basiswörterbuchs, zusätzlich jedoch etliche, die entweder
 im Basiswörterbuch noch fehlen oder die nicht unbedingt zum Kernwortschatz
 des Deutschen gehören. Die zusätzlichen Aufnahmen sind ungeprüft.
