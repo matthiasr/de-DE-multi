@@ -3,8 +3,8 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>de_DE@dicts.j3e.de</em:id>
-    <em:version>20100306</em:version>
+    <em:id>de_DE@multi</em:id>
+    <em:version>20100322</em:version>
     <!--
     see https://addons.mozilla.org/en-US/firefox/pages/appversions
     -->
@@ -36,8 +36,8 @@
 	<em:maxVersion>1.1a2pre</em:maxVersion>
       </Description>
     </em:targetApplication>
-    <em:name>Wörterbuch Deutsch (de-DE), Hunspell-unterstützt</em:name>
-    <em:creator>Björn Jacke</em:creator>
+    <em:name>Wörterbuch Deutsch (de-DE) – alte+neue+neueste Rechtschreibung</em:name>
+    <em:creator>Björn Jacke, erweitert von Franz Michael Baumann; alte Rechtschreibung aus Debian</em:creator>
     <em:homepageURL>http://www.j3e.de/ispell/igerman98/</em:homepageURL>
   </Description>
 </RDF>
