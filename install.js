@@ -1,4 +1,4 @@
-var err = initInstall("Wörterbuch Deutsch (de-DE), Hunspell-unterstützt", "de_DE@multi", "20100322");
+var err = initInstall("Wörterbuch Deutsch (de-DE), Hunspell-unterstützt", "de_DE@multi", "20100323");
 if (err != SUCCESS)
     cancelInstall();
 

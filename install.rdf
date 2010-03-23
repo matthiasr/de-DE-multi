@@ -4,7 +4,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>de_DE@multi</em:id>
-    <em:version>20100322</em:version>
+    <em:version>20100323</em:version>
     <!--
     see https://addons.mozilla.org/en-US/firefox/pages/appversions
     -->
